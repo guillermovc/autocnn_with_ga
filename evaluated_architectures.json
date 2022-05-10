@@ -1,11 +1,313 @@
 {
-    "128_32-16_16-16_64": 0.4878000020980835,
-    "mean-max-32_32": 0.3276999890804291,
-    "mean-16_16-64_32-max": 0.3928000032901764,
-    "32_64-mean-mean-mean": 0.37689998745918274,
-    "16_16-16_64-128_32": 0.42640000581741333,
-    "max-32_32-mean": 0.2896000146865845,
-    "16_64-128_32-16_16": 0.40880000591278076,
-    "mean-32_32-mean": 0.3061000108718872,
-    "16_16-64_32-max-max": 0.33079999685287476
+    "max-mean-max": {
+        "encoding": "max-mean-max",
+        "depth": 3,
+        "fitness": 0.0,
+        "accuracy": 0.15539999306201935,
+        "process time": 0.08054968000000003,
+        "training time": 0.05743511166666666
+    },
+    "mean-64_16-8_8-128_32-64_128-8_8-max-mean-mean-64_64": {
+        "encoding": "mean-64_16-8_8-128_32-64_128-8_8-max-mean-mean-64_64",
+        "depth": 10,
+        "fitness": 0.0,
+        "accuracy": 0.5127000212669373,
+        "process time": 1.281532200000001,
+        "training time": 3.2401599033333333
+    },
+    "mean-128_32-16_128-128_64-128_64-mean-mean-mean": {
+        "encoding": "mean-128_32-16_128-128_64-128_64-mean-mean-mean",
+        "depth": 8,
+        "fitness": 0.0,
+        "accuracy": 0.3271999955177307,
+        "process time": 2.1748292200000034,
+        "training time": 5.1714778599999995
+    },
+    "128_64-mean-mean-128_64-mean-mean-max-8_128-mean-16_16": {
+        "encoding": "128_64-mean-mean-128_64-mean-mean-max-8_128-mean-16_16",
+        "depth": 10,
+        "fitness": 0.0,
+        "accuracy": 0.2791000008583069,
+        "process time": 1.895393880000006,
+        "training time": 4.743317976666666
+    },
+    "max-mean-64_64-mean-max-max": {
+        "encoding": "max-mean-64_64-mean-max-max",
+        "depth": 6,
+        "fitness": 0.0,
+        "accuracy": 0.28060001134872437,
+        "process time": 0.2041858599999955,
+        "training time": 0.3162778833333334
+    },
+    "16_64-8_128-mean-16_64-128_16-128_64-max-32_128-mean-max": {
+        "encoding": "16_64-8_128-mean-16_64-128_16-128_64-max-32_128-mean-max",
+        "depth": 10,
+        "fitness": 0.0,
+        "accuracy": 0.47679999470710754,
+        "process time": 3.262244099999998,
+        "training time": 7.403116051666666
+    },
+    "8_64-mean-32_128-max-16_64-mean": {
+        "encoding": "8_64-mean-32_128-max-16_64-mean",
+        "depth": 6,
+        "fitness": 0.0,
+        "accuracy": 0.30320000648498535,
+        "process time": 1.3416707599999882,
+        "training time": 2.618531036666665
+    },
+    "32_128-mean-8_8-mean-max-max-max": {
+        "encoding": "32_128-mean-8_8-mean-max-max-max",
+        "depth": 7,
+        "fitness": 0.0,
+        "accuracy": 0.2671000063419342,
+        "process time": 1.3106140600000118,
+        "training time": 3.088232693333335
+    },
+    "128_16-mean-64_16-mean-mean-mean": {
+        "encoding": "128_16-mean-64_16-mean-mean-mean",
+        "depth": 6,
+        "fitness": 0.0,
+        "accuracy": 0.28279998898506165,
+        "process time": 1.2936593900000162,
+        "training time": 2.9852855249999988
+    },
+    "max-mean-mean-mean-64_16-mean-mean-mean": {
+        "encoding": "max-mean-mean-mean-64_16-mean-mean-mean",
+        "depth": 8,
+        "fitness": 0.0,
+        "accuracy": 0.2004999965429306,
+        "process time": 0.09127591999999822,
+        "training time": 0.08707609666666562
+    },
+    "max-16_32-mean-8_64-8_16-128_8-32_8-128_8": {
+        "encoding": "max-16_32-mean-8_64-8_16-128_8-32_8-128_8",
+        "depth": 8,
+        "fitness": 0.0,
+        "accuracy": 0.35440000891685486,
+        "process time": 0.6374562499999911,
+        "training time": 1.2491843116666663
+    },
+    "mean-max-mean-mean-64_32-16_8-mean-max": {
+        "encoding": "mean-max-mean-mean-64_32-16_8-mean-max",
+        "depth": 8,
+        "fitness": 0.0,
+        "accuracy": 0.2556999921798706,
+        "process time": 0.08820362000001296,
+        "training time": 0.08245863333333242
+    },
+    "8_64-mean-max-mean-128_128-32_16-128_16": {
+        "encoding": "8_64-mean-max-mean-128_128-32_16-128_16",
+        "depth": 7,
+        "fitness": 0.0,
+        "accuracy": 0.310699999332428,
+        "process time": 0.7770257899999934,
+        "training time": 1.466536131666669
+    },
+    "max-16_32-mean-8_64-mean-mean": {
+        "encoding": "max-16_32-mean-8_64-mean-mean",
+        "depth": 6,
+        "fitness": 0.0,
+        "accuracy": 0.32120001316070557,
+        "process time": 0.25517820999998553,
+        "training time": 0.43151205666666403
+    },
+    "128_16-mean-64_16-mean-8_16-128_8-32_8-128_8": {
+        "encoding": "128_16-mean-64_16-mean-8_16-128_8-32_8-128_8",
+        "depth": 8,
+        "fitness": 0.0,
+        "accuracy": 0.35499998927116394,
+        "process time": 1.3919860100000052,
+        "training time": 4.120692525
+    },
+    "max-16_32-mean-mean-8_16-128_8-32_8-128_8": {
+        "encoding": "max-16_32-mean-mean-8_16-128_8-32_8-128_8",
+        "depth": 8,
+        "fitness": 0.0,
+        "accuracy": 0.40130001306533813,
+        "process time": 0.3330443299999843,
+        "training time": 0.5491129750000028
+    },
+    "128_16-mean-64_16-max-mean-mean": {
+        "encoding": "128_16-mean-64_16-max-mean-mean",
+        "depth": 6,
+        "fitness": 0.0,
+        "accuracy": 0.3264999985694885,
+        "process time": 1.0572865699999965,
+        "training time": 3.2614597283333295
+    },
+    "max-16_32-mean-max-mean-mean": {
+        "encoding": "max-16_32-mean-max-mean-mean",
+        "depth": 6,
+        "fitness": 0.0,
+        "accuracy": 0.22300000488758087,
+        "process time": 0.20896886999998968,
+        "training time": 0.3224858699999989
+    },
+    "mean-16_32-mean-mean-32_8-mean": {
+        "encoding": "mean-16_32-mean-mean-32_8-mean",
+        "depth": 6,
+        "fitness": 0.0,
+        "accuracy": 0.31290000677108765,
+        "process time": 0.22141139999998813,
+        "training time": 0.35044290333333566
+    },
+    "max-mean-max-8_64-64_128-128_8-32_8-128_8": {
+        "encoding": "max-mean-max-8_64-64_128-128_8-32_8-128_8",
+        "depth": 8,
+        "fitness": 0.0,
+        "accuracy": 0.30970001220703125,
+        "process time": 0.2979741000000104,
+        "training time": 0.49397842833332867
+    },
+    "128_16-mean-64_16-max-8_16-128_8-32_8-128_8-mean": {
+        "encoding": "128_16-mean-64_16-max-8_16-128_8-32_8-128_8-mean",
+        "depth": 9,
+        "fitness": 0.0,
+        "accuracy": 0.3736000061035156,
+        "process time": 1.2649428199999875,
+        "training time": 3.8254385233333323
+    },
+    "max-mean-max-8_64-64_128-128_8-32_8-128_8-mean": {
+        "encoding": "max-mean-max-8_64-64_128-128_8-32_8-128_8-mean",
+        "depth": 9,
+        "fitness": 0.0,
+        "accuracy": 0.22939999401569366,
+        "process time": 0.29273858000001385,
+        "training time": 0.5042871683333335
+    },
+    "max-16_8-128_64-mean-8_64-8_64-max-max-mean-max": {
+        "encoding": "max-16_8-128_64-mean-8_64-8_64-max-max-mean-max",
+        "depth": 10,
+        "fitness": 0.0,
+        "accuracy": 0.35510000586509705,
+        "process time": 0.8757283900000005,
+        "training time": 1.7612541016666667
+    },
+    "16_8-16_8-64_16-max-128_32-max-16_32-16_128-8_32-max": {
+        "encoding": "16_8-16_8-64_16-max-128_32-max-16_32-16_128-8_32-max",
+        "depth": 10,
+        "fitness": 0.0,
+        "accuracy": 0.4697999954223633,
+        "process time": 1.735015040000002,
+        "training time": 4.5548870216666675
+    },
+    "mean-max-8_16-max-128_64-mean": {
+        "encoding": "mean-max-8_16-max-128_64-mean",
+        "depth": 6,
+        "fitness": 0.0,
+        "accuracy": 0.2361000031232834,
+        "process time": 0.14277099000000248,
+        "training time": 0.20844606500000015
+    },
+    "16_128-128_32-max-mean-128_16-32_8-mean": {
+        "encoding": "16_128-128_32-max-mean-128_16-32_8-mean",
+        "depth": 7,
+        "fitness": 0.0,
+        "accuracy": 0.31630000472068787,
+        "process time": 3.486855300000002,
+        "training time": 9.061770923333333
+    },
+    "max-mean-max-mean-max-128_128-mean-8_8": {
+        "encoding": "max-mean-max-mean-max-128_128-mean-8_8",
+        "depth": 8,
+        "fitness": 0.0,
+        "accuracy": 0.17080000042915344,
+        "process time": 0.10060754999999516,
+        "training time": 0.10630990000000035
+    },
+    "64_32-64_128-16_128-64_64-max-mean-128_8-64_64-64_64-mean": {
+        "encoding": "64_32-64_128-16_128-64_64-max-mean-128_8-64_64-64_64-mean",
+        "depth": 10,
+        "fitness": 0.0,
+        "accuracy": 0.5,
+        "process time": 6.451660930000003,
+        "training time": 14.97248772
+    },
+    "32_128-8_8-max-128_16": {
+        "encoding": "32_128-8_8-max-128_16",
+        "depth": 4,
+        "fitness": 0.0,
+        "accuracy": 0.30979999899864197,
+        "process time": 2.0804131100000007,
+        "training time": 5.2673517316666665
+    },
+    "32_16-mean-32_16-64_8": {
+        "encoding": "32_16-mean-32_16-64_8",
+        "depth": 4,
+        "fitness": 0.0,
+        "accuracy": 0.29120001196861267,
+        "process time": 0.9045111299999974,
+        "training time": 2.047225555
+    },
+    "16_128-8_64-32_16-mean": {
+        "encoding": "16_128-8_64-32_16-mean",
+        "depth": 4,
+        "fitness": 0.0,
+        "accuracy": 0.3776000142097473,
+        "process time": 2.814414490000001,
+        "training time": 6.707101278333332
+    },
+    "max-8_128-128_128-8_128": {
+        "encoding": "max-8_128-128_128-8_128",
+        "depth": 4,
+        "fitness": 0.0,
+        "accuracy": 0.4361000061035156,
+        "process time": 1.9074450699999999,
+        "training time": 3.809701441666667,
+        "epochs": 1
+    },
+    "8_8-16_128-max": {
+        "encoding": "8_8-16_128-max",
+        "depth": 3,
+        "fitness": 0.0,
+        "accuracy": 0.3084000051021576,
+        "process time": 1.3048350099999995,
+        "training time": 2.9640709700000003,
+        "epochs": 1
+    },
+    "mean-max-32_16-max": {
+        "encoding": "mean-max-32_16-max",
+        "depth": 4,
+        "fitness": 0.0,
+        "accuracy": 0.21070000529289246,
+        "process time": 0.12454442000000085,
+        "training time": 0.1738171883333327,
+        "epochs": 1
+    },
+    "max-max-8_128-8_64-8_128": {
+        "encoding": "max-max-8_128-8_64-8_128",
+        "depth": 5,
+        "fitness": 0.0,
+        "accuracy": 0.4074000120162964,
+        "process time": 0.4438319699999966,
+        "training time": 0.7862037566666668,
+        "epochs": 1
+    },
+    "64_64-mean-16_16": {
+        "encoding": "64_64-mean-16_16",
+        "depth": 3,
+        "fitness": 0.0,
+        "accuracy": 0.27480000257492065,
+        "process time": 1.3384329900000012,
+        "training time": 3.1846903066666665,
+        "epochs": 1
+    },
+    "64_64-32_64-32_8-64_16": {
+        "encoding": "64_64-32_64-32_8-64_16",
+        "depth": 4,
+        "fitness": 0.0,
+        "accuracy": 0.3944000005722046,
+        "process time": 3.0971330500000023,
+        "training time": 8.255321113333334,
+        "epochs": 1
+    },
+    "16_8-max-max-32_16": {
+        "encoding": "16_8-max-max-32_16",
+        "depth": 4,
+        "fitness": 0.0,
+        "accuracy": 0.20440000295639038,
+        "process time": 0.3887831600000027,
+        "training time": 0.8767710666666649,
+        "epochs": 1
+    }
 }
